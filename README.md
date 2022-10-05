@@ -6,5 +6,7 @@ This repository contains material relevant for the hands-on session on the first
 
 
 |  Tutorial Jupyter Notebook (Exercises)  |
+|------|
+
 |  Tutorial Jupyter Notebook (Exercises + Solutions)  |
 |------|
