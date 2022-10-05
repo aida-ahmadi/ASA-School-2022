@@ -5,8 +5,8 @@
 This repository contains material relevant for the hands-on session on the first day of the school that explores the many ways one can query and analyse the content of the ALMA Science Archive. 
 
 
-|  Tutorial Jupyter Notebook (Exercises)  |
+|  [Tutorial Jupyter Notebook (Exercises)](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_questions.ipynb?flush_cache=True)  |
 |------|
 
-|  Tutorial Jupyter Notebook (Exercises + Solutions)  |
+|  [Tutorial Jupyter Notebook (Exercises + Solutions)](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_answers.ipynb?flush_cache=True)  |
 |------|
