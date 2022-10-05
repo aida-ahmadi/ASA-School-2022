@@ -6,10 +6,10 @@ This repository contains material relevant for the hands-on session on the first
 
 ## Tutorial Jupyter Notebook (Static versions)
 
-| [Exercises](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_questions.ipynb?flush_cache=True)  |
+| [Exercises](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_questions.ipynb)  |
 |------|
 
-|  [Exercises + Solutions](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_answers.ipynb?flush_cache=True)  |
+|  [Exercises + Solutions](https://nbviewer.org/github/aida-ahmadi/ASA-School-2022/blob/main/exercises_answers.ipynb)  |
 |------|
 
 ## Tutorial Jupyter Notebook (Interactive versions)
